@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Kaya Zeren <kayazeren@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - Plugin Webservices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-13 14:42+0200\n"
+"PO-Revision-Date: 2017-09-23 23:43+0000\n"
+"Last-Translator: Nelly Mahu-Lasson <nini.lasson@orange.fr>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/yllen/GLPI_webservices/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: setup.php:136 front/client.form.php:58 front/client.php:39
+#: inc/client.class.php:250
+msgid "Web Services"
+msgstr "Web Hizmetleri"
+
+#: inc/client.class.php:59
+msgid "Client"
+msgid_plural "Clients"
+msgstr[0] "İstemci"
+msgstr[1] "İstemci"
+
+#: inc/client.class.php:77
+msgid "Methods"
+msgstr "Yöntemler"
+
+#: inc/client.class.php:145 inc/client.class.php:264
+msgid "Enabled services"
+msgstr "Etkinleştirilmiş hizmetler"
+
+#: inc/client.class.php:150 inc/client.class.php:273
+msgid "Compression enabled"
+msgstr "Sıkıştırma kullanılıyor"
+
+#: inc/client.class.php:158 inc/client.class.php:269
+msgid "Log connections"
+msgstr "Bağlantılar günlüğe eklensin"
+
+#: inc/client.class.php:171 inc/client.class.php:287
+msgid "SQL pattern for services"
+msgstr "Hizmetler için SQL örüntüsü"
+
+#: inc/client.class.php:176
+msgid "IPv4 address range"
+msgstr "IPv4 adres aralığı"
+
+#: inc/client.class.php:185 inc/client.class.php:283
+msgid "IPv6 address"
+msgstr "IPv6 adresleri"
+
+#: inc/client.class.php:190
+msgid "User name"
+msgstr "Kullanıcı adı"
+
+#: inc/client.class.php:208
+msgid "Method list - defined and allowed by this rule"
+msgstr "Yöntem listesi - bu kural tarafından tanımlanmış ve izin verilen"
+
+#: inc/client.class.php:210
+msgid "Method name"
+msgstr "Yöntem adı"
+
+#: inc/client.class.php:211
+msgid "Provider plugin"
+msgstr "Hizmet sağlayıcı uygulama eki"
+
+#: inc/client.class.php:212
+msgid "Internal function name"
+msgstr "İç işlev adı"
+
+#: inc/client.class.php:213
+msgid "Function is available"
+msgstr "İşlev kullanılabilir"
+
+#: inc/client.class.php:346
+msgid "Local"
+msgstr "Yerel"
+
+#: inc/client.class.php:348
+msgid "Allow all from local"
+msgstr "Yerelden gelenlerin hepsine izin verilsin"
